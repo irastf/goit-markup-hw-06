@@ -497,9 +497,10 @@ img {
 .subscribe-form-container {
   display: flex;
   align-items: center;
+  margin-right: 24px;
 }
 .subscribe-form {
-  margin-right: 24px;
+  
 }
 
 .backdrop {
