@@ -497,7 +497,7 @@ img {
 .subscribe-form-container {
   display: flex;
   align-items: center;
-  
+  margin-right: 24px;  
 }
 .subscribe-form {
   margin-right: 24px;  
@@ -689,7 +689,7 @@ img {
   color: #8e8f99;
 }
 .contact-form-chekbox-wrapper {
-  margin-bottom: 16px;
+  margin-bottom: 24px;
 }
 .contact-form-link {
   margin-left: 3px;
